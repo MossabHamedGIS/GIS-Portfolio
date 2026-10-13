@@ -29,6 +29,7 @@ The examples below use selected screenshots from my project portfolio. Descripti
 
 <img src="assets/infrastructure-3d-gis.jpg" alt="Original portfolio screenshot showing infrastructure GIS and 3D modeling views" width="850" />
 Objective
+
 Manage infrastructure geospatial data and support 3D visualization and coordination with engineering design information.
 
 **Technical focus**
